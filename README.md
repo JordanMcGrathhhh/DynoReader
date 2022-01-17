@@ -18,8 +18,8 @@ every small mistake Tesseract makes- especially for cases like Fail-2-Dyno.jpg w
 Unfortunately, this is where OCR is not as magical as I could hope for. 
 Going forward I'd like to explore this area a little more, I think more pre-processing would net more positive results. 
 
-* To use this program:
+To use this program:
 
-1). Download Google's Tesseract program \n
-2). Install pyTesseract and opencv-python
-3). Run ./main.py and feed in Dyno sheets
+* 1). Download Google's Tesseract program \n
+* 2). Install pyTesseract and opencv-python
+* 3). Run ./main.py and feed in Dyno sheets
