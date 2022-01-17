@@ -11,7 +11,7 @@ With two small commands (Changing RBG to GRAY and blowing up the image using INT
 
 The limitations really show in this program due to several key issues:
 * 1). Non-standardization of Dyno Sheets
-* 2). Iffy-guessing on Tesseract
+* 2). Iffy-guessing on Tesseract (Not Tesseracts Fault really :/)
 
 As shown in the code, there's plenty of checks (and even some odd written code to catch unexpected results). That being said, it's impossible to catch 
 every small mistake Tesseract makes- especially for cases like Fail-2-Dyno.jpg where the lines overlap the text.
@@ -20,6 +20,6 @@ Going forward I'd like to explore this area a little more, I think more pre-proc
 
 To use this program:
 
-* 1). Download Google's Tesseract program \n
+* 1). Download Google's Tesseract program
 * 2). Install pyTesseract and opencv-python
 * 3). Run ./main.py and feed in Dyno sheets
