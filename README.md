@@ -20,6 +20,6 @@ Going forward I'd like to explore this area a little more, I think more pre-proc
 
 * To use this program:
 
-1). Download Google's Tesseract program 
+1). Download Google's Tesseract program \n
 2). Install pyTesseract and opencv-python
 3). Run ./main.py and feed in Dyno sheets
